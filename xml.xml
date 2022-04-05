@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Tests">
+
+    <test name="Login Test">
+
+        <parameter name="u1" value="demo@techfios.com"/>
+        <parameter name="p1" value="abc123"/>
+
+
+        <classes>
+            <class name="com.nerdy.test.LoginTest"/>
+        </classes>
+
+    </test>
+
+
+</suite>
